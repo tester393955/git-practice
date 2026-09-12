@@ -6,4 +6,4 @@ Today i learned Git branches and commits.
 
 This line was added from Github
 
-I am practicing Git push and pull lol
+GITHUB: I am learning Git conflicts.
