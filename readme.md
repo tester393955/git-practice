@@ -5,3 +5,5 @@ im learning git. New feachg
 Today i learned Git branches and commits.
 
 This line was added from Github
+
+I am practicing Git push and pull lol
