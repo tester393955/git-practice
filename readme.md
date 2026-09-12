@@ -1,3 +1,3 @@
 # my first git project
 
-im learning git
+im learning git. New feach
